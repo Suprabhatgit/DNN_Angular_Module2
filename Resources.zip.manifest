@@ -1,0 +1,84 @@
+﻿<dotnetnuke type="ResourceFile" version="5.0">
+  <files>
+    <file>
+      <path>Scripts/</path>
+      <name>3rdpartylicenses.txt</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>index.html</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>ItemEdit.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>ItemView.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>main.1d7f113e1ebbc934.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>polyfills.5cbcbdfcaed41748.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>QuickSettings.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>runtime.ba7305be91100f93.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>styles.ef46db3751d8e999.css</name>
+    </file>
+    <file>
+      <path>Documentation/</path>
+      <name>Documentation.css</name>
+    </file>
+    <file>
+      <path>Documentation/</path>
+      <name>Documentation.html</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>Edit.resx</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>Settings.resx</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>View.resx</name>
+    </file>
+    <file>
+      <path />
+      <name>Edit.html</name>
+    </file>
+    <file>
+      <path />
+      <name>License.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>module.css</name>
+    </file>
+    <file>
+      <path />
+      <name>ReleaseNotes.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>Settings.html</name>
+    </file>
+    <file>
+      <path />
+      <name>View.html</name>
+    </file>
+  </files>
+</dotnetnuke>

@@ -1,0 +1,18 @@
+﻿[JavaScript:{ jsname: "JQuery" }]
+[JavaScript:{ jsname: "Knockout" }]
+[JavaScript:{ path: "~/Resources/Shared/scripts/dnn.jquery.js"}]
+[JavaScript:{ path: "~/DesktopModules/DNN_Angular_Module2/scripts/QuickSettings.js"}]
+
+<div id="QuickSettings-[ModuleContext:ModuleId]" class="dnnForm">
+    <div class="dnnFormMessage dnnFormInfo">
+        [Resx:{key:"SettingsInfo"}]
+    </div>
+</div>
+<script language="javascript" type="text/javascript">
+    (function ($) {
+        var moduleId = parseInt("[ModuleContext:ModuleId]");
+        var element = 'QuickSettings-[ModuleContext:ModuleId]';
+        var quickSettings = new DNN_Angular_Module2.quickSettings(element, moduleId);
+        quickSettings.init();
+    })(jQuery);
+</script>
